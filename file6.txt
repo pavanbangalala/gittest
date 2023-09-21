@@ -1,3 +1,5 @@
 file 6
 
 second line
+
+this is another line
